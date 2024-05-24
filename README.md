@@ -1,6 +1,6 @@
 # GMMFormer v2: An Uncertainty-aware Framework for Partially Relevant Video Retrieval
 
-This repository is the official PyTorch implementation of our paper [GMMFormer v2: An Uncertainty-aware Framework for Partially Relevant Video Retrieval](https://arxiv.org/pdf/2310.05195.pdf).
+This repository is the official PyTorch implementation of our paper [GMMFormer v2: An Uncertainty-aware Framework for Partially Relevant Video Retrieval](https://arxiv.org/pdf/2405.13824).
 
 
 ## Catalogue <br> 
